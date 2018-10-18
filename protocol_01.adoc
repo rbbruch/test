@@ -3,8 +3,8 @@
 Treffen am 10.10.2018
 
 Ort:      APB +
-Beginn:   xx:xx Uhr +
-Ende:     xx:xx Uhr
+Beginn:   11:20 Uhr +
+Ende:     12:20 Uhr
 
 __Schriftführer: Rebecca Bruch__
 
@@ -14,10 +14,10 @@ __Schriftführer: Rebecca Bruch__
 __Teilnehmer:__
 //Tabellarisch oder Aufzählung, Kennzeichnung von Teilnehmern mit besonderer Rolle (z.B. Kunde)
 
-- Rebecca Bruch
-- Lucas W
+- Lucas Waclawczyk
 - Steffen Breuer
-- Felix
+- Rebecca Bruch
+- Felix Otto
 - Sören
 - Simon Birkenheuer (Tutor)
 
