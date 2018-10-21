@@ -1,0 +1,58 @@
+﻿= Protokoll Gruppe 07
+
+Treffen am 17.10.2018
+
+Ort:      APB +
+Beginn:   16:40 Uhr +
+Ende:     18:10 Uhr
+
+__Schriftführer: Rebecca Bruch__
+
+*Nächstes Treffen:* +
+25.10.2018, 16:40 Uhr, APB im Foyer
+
+__Teilnehmer:__
+//Tabellarisch oder Aufzählung, Kennzeichnung von Teilnehmern mit besonderer Rolle (z.B. Kunde)
+
+- Lucas Waclawczyk
+- Steffen Breuer
+- Rebecca Bruch
+- Felix Otto
+- Sören Schwab
+- Simon Birkenheuer (Tutor)
+
+== Bemerkungen
+- regelmäßige Treffen verschoben:
+** Montag, 15.20 Uhr bei Lucas (nur Gruppe)
+** Donnerstag, 16.40 Uhr im APB (mit Simon)
+
+== Retrospektive des letzten Sprints
+*Issue referenziert die Issue ID von GitHub*
+// Wie ist der Status der im letzten Sprint erstellten Issues/veteilten Aufgaben?
+
+// See http://asciidoctor.org/docs/user-manual/=tables
+[option="headers"]
+|===
+|Issue |Aufgabe |Status |Bemerkung
+|- |Einarbeitung in Tools| Magic Draw für Analysediagramme verwendet, Vorlesung über Spring besucht | in Bearbeitung | Spring and Salespoint benötigen noch Vertiefung
+|- | Analyse anfangen | abgeschlossen | Analyseklassendiagramms und Use-Case-Diagramm erstellt, Verbesserungen geplant
+|===
+
+
+== Aktueller Stand
+Erste Analyse durchgeführt und Besprechung vieler Details zum Verbessern der Diagramme und des generellen Verständnisses.
+
+== Planung des nächsten Sprints
+*Issue referenziert die Issue ID von GitHub*
+
+// See http://asciidoctor.org/docs/user-manual/=tables
+[option="headers"]
+|===
+|Issue |Titel |Beschreibung |Verantwortlicher |Status
+| - | Einarbeitung in Tools | Spring und Salespoint weiter vertiefen | alle | in Bearbeitung
+| - | Analysediagramme verbessern | Analyseklassendiagramm und Use-Case-Diagramm erweitern und ergänzen wie besprochen | alle | in Bearbeitung
+| - | Sequenzdiagramme | Sequenzdiagramme erstellen, Orientierung an Use-Case-Diagramm wenn abgeschlossen | alle | offen
+| - | Pflichtenheft erstellen | Abgabe spätestens 26.10.18, möglichst früher | alle | offen
+| - | Aufgaben Videoshop Prototyp | Über Aufgabenverteilung zum Prototyp einigen und Simon benachrichtigen | alle | offen
+| - | Prototyp Videoshop | Abgabe 26.10.18, entsprechend der gestellen Aufgabe jeder einzeln den Videoshop erweitern | jeder einzeln | offen
+|===
