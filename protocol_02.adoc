@@ -34,7 +34,7 @@ __Teilnehmer:__
 [option="headers"]
 |===
 |Issue |Aufgabe |Status |Bemerkung
-|- |Einarbeitung in Tools| Magic Draw für Analysediagramme verwendet, Vorlesung über Spring besucht | in Bearbeitung | Spring and Salespoint benötigen noch Vertiefung
+|- |Einarbeitung in Tools | in Bearbeitung | Spring and Salespoint benötigen noch Vertiefung
 |- | Analyse anfangen | abgeschlossen | Analyseklassendiagramms und Use-Case-Diagramm erstellt, Verbesserungen geplant
 |===
 
